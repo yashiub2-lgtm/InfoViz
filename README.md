@@ -16,15 +16,15 @@ This project analyzes constellation data across 40 sky cultures to uncover:
 **Team:** Carlos Banks, Dhruv Jore, Priyanshu Laddha, Yashkumar Burnwal  
 **Client:** Prof. Doina Bucur
 
-## 📂 Project Structure
-InfoViz/
-├── skies_across_cultures.py   # Main analysis script
-├── README.md
-├── requirements.txt
-├── *.json                     # 40 sky-culture data files (Dien.json, IAU.json, ...)
-├── Fig_2.png  ...  Fig_10.png
-├── culture_summary.csv
-└── constellation_summary.csv
+## 📂 Project Structure  
+InfoViz/  
+├── skies_across_cultures.py   # Main analysis script  
+├── README.md  
+├── requirements.txt  
+├── *.json                     # 40 sky-culture data files (Dien.json, IAU.json, ...)  
+├── Fig_2.png  ...  Fig_10.png  
+├── culture_summary.csv  
+└── constellation_summary.csv  
 
 ## 🔧 Setup
 
@@ -135,5 +135,3 @@ The constellation dataset was provided by the project client. It consists of 40 
 ## 🙏 Acknowledgements
 
 Thanks to the project client for providing the constellation datasets and guidance throughout the analysis.
-Code is released under the MIT License. Data files retain the licenses specified within them.
-
