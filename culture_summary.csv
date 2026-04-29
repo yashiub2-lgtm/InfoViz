@@ -1,0 +1,41 @@
+culture,region,subregion,period,num_constellations,num_lined_constellations,unique_stars,total_edges,avg_stars_per_constellation,avg_edges_per_constellation
+Ahtna,Americas,Northern America,2010-2021,2,2,61,63,30.5,31.5
+Anuta,Oceania,Melanesia,1972–1973 and 1983–1984,11,11,55,49,5.0,4.454545454545454
+Ava Guaraní,Americas,South America,1921 fieldwork,6,4,38,37,6.333333333333333,6.166666666666667
+Banjara,Asia,S Asia,2013,1,1,7,6,7.0,6.0
+Blackfoot,Americas,Northern America,"1908, 1910, 1997",4,4,35,31,8.75,7.75
+Bororo,Americas,South America,1983 fieldwork and earlier sources,16,16,79,73,4.9375,4.5625
+Bugis,Asia,South-Eastern Asia,"1987, 1999, 2021",12,12,47,50,4.75,4.166666666666667
+Dien,Europe,Western Europe,1831,102,102,759,1147,10.07843137254902,11.245098039215685
+Gond,Asia,S Asia,2011-2012,11,11,67,73,7.454545454545454,6.636363636363637
+Gwich'in,Americas,Northern America,2010-2021,2,2,42,45,21.5,22.5
+Huave,Americas,Central America,field work Nov 1979-Feb 1980,15,15,90,78,6.0,5.2
+IAU,World,,1930-,86,86,740,749,8.744186046511627,8.709302325581396
+Iroquois,Americas,Northern America,1895-1922,4,4,14,19,5.25,4.75
+Java,Asia,South-eastern Asia,"1885, 2015",3,3,14,12,4.666666666666667,4.0
+Kalina,Americas,South America,1980,9,9,92,89,10.222222222222221,9.88888888888889
+K'iche',Americas,Central America,20th century,8,8,42,36,5.375,4.5
+Kolam,Asia,S Asia,2013,7,7,41,48,7.714285714285714,6.857142857142857
+Korku,Asia,S Asia,2016,7,7,34,32,5.428571428571429,4.571428571428571
+Koyukon,Americas,Northern America,1976-1977 and 2010-2021,2,2,23,31,15.0,15.5
+Lower Tanana,Americas,Northern America,2010-2021,1,1,67,70,67.0,70.0
+Madura,Asia,South-eastern Asia,2015-1016,6,6,23,19,3.8333333333333335,3.1666666666666665
+Malay,Asia,South-eastern Asia,2015-2018,3,3,18,16,6.0,5.333333333333333
+Mandar,Asia,South-Eastern Asia,2021,6,6,51,46,8.5,7.666666666666667
+Maricopa,Americas,Northern America,1929-1930,6,6,31,29,5.166666666666667,4.833333333333333
+Mi'kmaq,Americas,Northern America,late 1800s,4,4,26,23,6.5,5.75
+Mocoví,Americas,South America,"1999-2009 fieldwork, plus early 20th-century (1921) fieldwork by R. Lehmann-Nitsche, which continue to be the main source on the astronomy of indigenous people of the Guaycurú linguistic group",12,12,48,42,4.0,3.5
+Nicobars,Asia,S Asia,2018,4,3,14,10,3.5,2.5
+Pardhi,Asia,S Asia,shortly before 2019,6,6,32,31,5.666666666666667,5.166666666666667
+Pawnee,Americas,Northern America,"20th century research, based on an undated sky chart",12,11,68,61,5.666666666666667,5.083333333333333
+Romania,Europe,Eastern Europe,1907,37,37,329,328,9.08108108108108,8.864864864864865
+Ruelle,Europe,Western Europe,1786,74,74,593,707,8.756756756756756,9.554054054054054
+Sahtúot’įnę,Americas,Northern America,2010-2021,1,1,42,45,42.0,45.0
+Tewa,Americas,Northern America,"documentation from older ethnographic sources dated 1916-1968, in Tewa-speaking villages",12,10,52,49,4.583333333333333,4.083333333333333
+Thai,Asia,South-eastern Asia,2012,9,9,45,44,5.222222222222222,4.888888888888889
+Toba,Americas,South America,"1921, 1924 fieldwork",11,3,13,11,1.1818181818181819,1.0
+Tutchone,Americas,Northern America,1949-1951,1,1,8,8,8.0,8.0
+Tzotzil,Americas,Central America,20th century,9,9,53,45,6.222222222222222,5.0
+Wichí,Americas,South America,20th century,5,3,22,20,4.4,4.0
+Yellowknives,Americas,Northern America,2010-2021,3,3,39,48,16.0,16.0
+Zuni,Americas,Northern America,1900s,9,9,47,43,5.222222222222222,4.777777777777778
