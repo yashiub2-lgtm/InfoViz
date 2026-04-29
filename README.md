@@ -24,7 +24,6 @@ InfoViz/
 ├── *.json                     # 40 sky-culture data files (Dien.json, IAU.json, ...)  
 ├── Fig_2.png  ...  Fig_10.png  
 ├── culture_summary.csv  
-└── constellation_summary.csv  
 
 ## 🔧 Setup
 
